@@ -52,7 +52,7 @@
 ## 📌 Highlights
 
 ✔ Hands-on with **individual & team-based projects**  
-✔ Certified in **Web Development & UI/UX Design**  
+✔ Certified in **Web Development & UI/UX Design (Udemy)**  
 ✔ Strong foundation in **DSA, OOP, DBMS, OS**  
 ✔ Focused on **performance & scalable applications**
 
