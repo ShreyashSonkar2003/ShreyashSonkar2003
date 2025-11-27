@@ -40,7 +40,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-0A74DA?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-1E90FF?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-0A74DA?style=for-the-badge&logo=github&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-4682B4?style=for-the-badge&logo=rest&logoColor=white)
 
 **Design & Creativity**  
 ![Figma](https://img.shields.io/badge/Figma-0A74DA?style=for-the-badge&logo=figma&logoColor=white)
