@@ -20,13 +20,13 @@
 
 💻 **Aspiring Software Development Engineer** passionate about building scalable backend systems and modern web applications.
 
-I enjoy solving complex problems through code, building real-world projects using Java and Spring technologies, and continuously improving my problem-solving skills through Data Structures & Algorithms.
+I enjoy solving complex problems through code, building real world projects using Java and Spring technologies, and continuously improving my problem solving skills through Data Structures & Algorithms.
 
-- 🎓 **B.Tech (2025)** | Electronics & Telecommunication | PCCOE, Pune
+- 🎓 **B.Tech (2025)** | Electronics & Telecommunication | PCCOE, Pune.
 - 💼 **Ex-SQL Intern @ Celebal Technologies**
-- 🌱 Currently learning **Spring Boot, Microservices & System Design**
-- 🏆 Solved **300+ DSA Problems** on LeetCode
-- 🎯 Interested in **Backend Development**, **Full-Stack Development**, and **Software Engineering**
+- 🌱 Currently learning **Spring Boot, Microservices & System Design.**
+- 🏆 Solved **300+ DSA Problems** on LeetCode.
+- 🎯 Interested in **Backend Development**, **Full-Stack Development**, and **Software Engineering.**
 
 ---
 
@@ -217,7 +217,7 @@ HTML • CSS • JavaScript
 
 # 💭 Quote
 
-> **"First, solve the problem. Then, write the code."** — John Johnson
+> **"First, solve the problem. Then, write the code."** 
 
 ---
 
