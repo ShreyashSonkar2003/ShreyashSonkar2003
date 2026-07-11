@@ -94,7 +94,7 @@ Apache Tomcat • MySQL Workbench
 
 # 🚀 Featured Projects
 
-## 🛒 Zingvita – Full-Stack E-Commerce Platform
+## 🛒 Zingvita - Full Stack ECommerce Platform
 
 **Tech Stack**
 
@@ -127,7 +127,7 @@ Java • Spring MVC • Hibernate • REST APIs • MySQL
 
 ---
 
-## ⚙️ TaskWeave – CPU Scheduling Simulator
+## ⚙️ TaskWeave - CPU Scheduling Simulator
 
 **Tech Stack**
 
