@@ -1,5 +1,10 @@
 <!-- ======================= HEADER ======================= -->
 
+<p align="center">
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1E3A8A&height=220&section=header&text=Shreyash%20Sonkar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=850&lines=Aspiring+Software+Development+Engineer;Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Full-Stack+Web+Developer;300%2B+DSA+Problems+Solved;Always+Learning+New+Technologies+🚀"/>
@@ -196,11 +201,6 @@ HTML • CSS • JavaScript
 
 ---
 
-<p align="center">
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:1E3A8A&height=220&section=header&text=Shreyash%20Sonkar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
 
 ### ⭐ Thanks for visiting my profile!
 
